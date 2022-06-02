@@ -21,8 +21,8 @@ static const char col_gray2[]       = "#de83c6";
 // font color
 static const char col_gray3[]       = "#FFFFFF";
 //current window font
-static const char col_gray4[]       = "#000000";
-static const char col_cyan[]        = "#ff4499";
+static const char col_gray4[]       = "#FFFFFF";
+static const char col_cyan[]        = "#81aeff";
 
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
